@@ -1,0 +1,25 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  padding: 10px;
+}
+
+a {
+  color: #00B7FF;
+}
+
+/* Index */
+.message{
+  font-size: x-large;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  row-gap: 10px;
+  /* align-items: center;     */
+}
+
+.m2{
+  font-size:medium;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
